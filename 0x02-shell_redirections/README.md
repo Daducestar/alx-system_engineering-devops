@@ -1,1 +1,1 @@
-echo'shell I/O redirections'> README.md
+echo'shell I/O redirections' > README.md
