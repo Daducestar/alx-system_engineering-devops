@@ -1,1 +1,1 @@
-shell i/o redirections
+echo 'shell i/O redirections'
