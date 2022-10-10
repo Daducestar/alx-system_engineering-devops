@@ -1,1 +1,1 @@
-echo 'shell i/O redirections'
+echo'shell i/O redirectionsi'> README.md
