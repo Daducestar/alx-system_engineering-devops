@@ -1,2 +1,1 @@
-#!/bin/bash
-echo'shell i/O redirectionsi'> README.md
+echo'shell I/O redirections'> README.md
